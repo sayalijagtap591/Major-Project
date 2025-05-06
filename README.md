@@ -1,2 +1,2 @@
-# Major-Project
+# Minor-Project
 Cardiovascular disease prediction project
